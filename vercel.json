@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+        { "source": "/(.*)", "destination": "/slash1.html" 
+    }]
+}
