@@ -1,5 +1,5 @@
 {
     "rewrites": [{ 
-        "source": "/slash1.html", "destination": "/slash1.html" 
+        "source": "/slash1.pdf", "destination": "/slash1.pdf" 
     }]
 }
